@@ -1,4 +1,4 @@
-﻿// Copyright (c) KriaSoft, LLC.  All rights reserved.
+﻿
 // Licensed under the Apache License, Version 2.0.  See LICENSE.txt in the project root for license information.
 
 using System.Reflection;
@@ -10,9 +10,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("App.Server.Tests")]
 [assembly: AssemblyDescription("Web Application Server Tests")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("KriaSoft")]
+[assembly: AssemblyCompany("Justin Robinson")]
 [assembly: AssemblyProduct("Web Application Server Tests")]
-[assembly: AssemblyCopyright("Copyright © KriaSoft")]
+[assembly: AssemblyCopyright("Copyright © JustinDevelopment")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
